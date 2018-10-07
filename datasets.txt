@@ -1,0 +1,37 @@
+======================== Questions for datasets ========================
+
+https://www.kaggle.com/lava18/google-play-store-apps
+1. Which age group purchases the most apps?
+2. Which app genre is the most downloaded for each age group? (free apps, paid apps, overall)
+3. How does app size correlate to number of downloads? to rating?
+4. Is there correlation between minimum android version to installs?
+
+https://www.kaggle.com/mehdidag/black-friday
+1. How does marital status correlate to amount of money spent? of products purhcased?
+2. How does age correlate to the above?
+3. How does gender correlate to the above?
+4. How does stay in current city correlate to the above?
+5. Combine gender with any of above criteria and find same correlation
+
+https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey
+(lots of data cleanup)
+1. How do JobSearchStatus/HopeFiveYears correlate to job/career satisfaction? to country? to years coding?
+2. How does job/career satisfaction correlate to company size?
+3. How does employment correlate to years coding?
+4. How do students compare to non-students in terms of job/career satisfaction?
+5. How do open-source coders compare to non-os in terms of job/career satisfaction?
+6. How does open-source correlate to years coding?
+7. How do people with non-related degrees compare to regulars in pretty much everything?
+8. How does DevType relate to job/career satisfaction?
+9. Are certain values of DevType taken by people with a lot of years coding?
+10. Are there any non-hobbyists? How do they compare to hobbyists in pretty much everything?
+11. How does country relate to formal education?
+*** There's also tons more data in the questions themselves, go fucking wild
+
+
+
+======= Dataset sources =======
+https://www.kaggle.com/datasets
+https://github.com/awesomedata/awesome-public-datasets
+https://www.dataquest.io/blog/free-datasets-for-projects/
+https://data.gov.il/dataset
